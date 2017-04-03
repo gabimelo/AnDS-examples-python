@@ -1,0 +1,40 @@
+|m|
+
+input: 4
+expected output: 4
+actual output: 4
+input: -4
+expected output: 4
+actual output: 4
+
+pythagorian
+
+input: 2,1
+expected output: 3, 4, 5
+actual output: 3, 4, 5
+input: 3,2
+expected output: 5, 12, 13
+actual output: 5, 12, 13
+
+leapYear
+
+input: 2015
+expected output: "Is not a leap year"
+actual output: "Is not a leap year"
+input: 2016
+expected output: "Is a leap year"
+actual output: "Is a leap year"
+
+list
+
+input: size=2 list=[1,1]
+expected output: 2
+actual output: 2
+
+input: size=3 list=[2,3,-1]
+expected output: 5
+actual output: 5
+
+input: size=0
+expected output: 0
+actual output: 0

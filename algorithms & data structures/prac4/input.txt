@@ -1,0 +1,11 @@
+Melbourne, Sydney, 200
+Melbourne, Brisbane, 400
+Sydney, Brisbane, 150
+Melbourne, Adelaide, 150
+Sydney, Adelaide, 400
+Brisbane, Townsville, 300
+Sydney, Alice, 500
+Adelaide, Alice, 200
+Melbourne, Hobart, 200
+Sydney, Kuala_Lumpur, 600
+Melbourne, Kuala_Lumpur, 900
